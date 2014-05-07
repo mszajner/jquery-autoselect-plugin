@@ -6,5 +6,5 @@ This is cross-browser plugin to select text in fields automatically when they re
 @TODO
 -----
 
-# Documentation
-# Tests
+* Documentation
+* Tests
